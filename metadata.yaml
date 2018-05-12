@@ -10,6 +10,8 @@ creator:
     gutenberg_agent_id: '40698'
     url: http://www.gutenberg.org/2009/agents/40698
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/40561#A-przemysli-rep-l-Reg-ny-a-nagy-h-bor-b-l
 gutenberg_issued: '2012-08-22'
 gutenberg_type: Text
 identifiers:
